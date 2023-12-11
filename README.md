@@ -1,11 +1,13 @@
 <p align="center"><h1>🧠 Awesome ChatGPT Prompts</h1></p>
 
+Based on the work of [![Fatih Kadir Akin](https://github.com/f)]
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-### Sponsors
-<a href="https://il.ly/"><img src="https://avatars.githubusercontent.com/u/304283?s=200&v=4" height="80"></a>
+I have made and will continue to make tweaks to this repository to fit my needs as we use different languages and frameworks.  I am currently using TypeScript and React for most develeopoment.
 
-**[Be my sponsor and your logo will be here and prompts.chat!](https://github.com/sponsors/f/sponsorships?sponsor=f&tier_id=319423)**
+I have plans to create different flavors for other languages so in the future you would checkout a branch with the falvour you would like to use.
+
+Below is the original README from the original REPO.
 
 ---
 
